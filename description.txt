@@ -1,0 +1,11 @@
+
+T academy 파이썬 selenium 이용한 crawler 예제
+  - https://www.youtube.com/playlist?list=PL9mhQYIlKEhf0DKhE-E59fR-iu7Vfpife 
+  - Tacademy_crawler.py, Tour.py
+
+open Tutorial 의 pyqt5 이용한 시리얼 통신 예제
+  - https://opentutorials.org/module/544/19046
+  - serialComm_open_tutorial.py
+
+JIG 테스트용 프로그램
+  - fct_main.py
